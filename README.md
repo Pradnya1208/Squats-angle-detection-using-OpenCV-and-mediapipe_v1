@@ -36,7 +36,7 @@ The solution utilizes a two-step detector-tracker ML pipeline. Using a detector,
 - They are considered closed chain, compound lifts involving the integration of multiple joint systems and muscle groups.
 - It has also been shown that long-term lifting with squats and deadlifts not only promotes an increase in bone mineral density in young populations, but it may also help maintain this adaptation well into the later stages of life 
 - When performed correctly, injuries related to these exercises are uncommon, however poor technique or inappropriate prescription can lead to wide range of issues, especially in combination with heavy weights. Considering the complexity of these exercises and the variables related to performance, understanding the biomechanics is of great importance for achieving optimal muscular development as well as reducing training related injury. 
-- Therefore, the purpose of this project is to detect the squat angles which will be helpful for the fitness instructors to provide a corrective advice where appropriate.
+- Therefore, the purpose of this project is to detect the squat angles which will be helpful for the fitness instructors to provide corrective advice where appropriate.
 
 ## Implementation:
 
