@@ -45,6 +45,10 @@ When the squat is paused in a certain position, we can then measure the angle of
 **The hip angle** is formed by the position of the back and the thigh. **The knee angle** is formed by the thigh and the position of the lower leg.
 
 ### Angle Calculation:
+<div align="center">
+<img src= "https://github.com/Pradnya1208/Squats-angle-detection-using-OpenCV-and-mediapipe_v1/blob/main/output/dig.png?raw=true" width="50%">
+</div>
+
 ```
 def calculate_angle(a,b,c):
     a = np.array(a) # First
