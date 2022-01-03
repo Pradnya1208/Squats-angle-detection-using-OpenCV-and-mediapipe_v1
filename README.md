@@ -21,6 +21,14 @@
 
 ## Overview:
 Human pose estimation from video plays a critical role in various applications such as quantifying physical exercises, sign language recognition, and full-body gesture control. For example, it can form the basis for yoga, dance, and fitness applications. It can also enable the overlay of digital content and information on top of the physical world in augmented reality.
+<br> <br>
+- In this project we are going to detect the crucial angles in Squat position.
+- The squat and deadlift are exercises prescribed by strength and conditioning professionals for the purpose of strengthening the legs, hips, back and torso musculature
+- They are considered closed chain, compound lifts involving the integration of multiple joint systems and muscle groups.
+- It has also been shown that long-term lifting with squats and deadlifts not only promotes an increase in bone mineral density in young populations, but it may also help maintain this adaptation well into the later stages of life 
+- When performed correctly, injuries related to these exercises are uncommon, however poor technique or inappropriate prescription can lead to wide range of issues, especially in combination with heavy weights. Considering the complexity of these exercises and the variables related to performance, understanding the biomechanics is of great importance for achieving optimal muscular development as well as reducing training related injury. 
+- Therefore, the purpose of this project is to detect the squat angles which will be helpful for the fitness instructors to provide a corrective advice where appropriate.
+
 
 ## ML Pipeline:
 
@@ -28,6 +36,11 @@ The solution utilizes a two-step detector-tracker ML pipeline. Using a detector,
 <div align="center">
 <img src="https://github.com/Pradnya1208/Squats-angle-detection-using-OpenCV-and-mediapipe_v1/blob/main/output/pose_tracking_detector_vitruvian_man.png?raw=true">
 </div>
+
+- The landmark model in MediaPipe Pose predicts the location of 33 pose landmarks (see figure below).
+![points](https://github.com/Pradnya1208/Squats-angle-detection-using-OpenCV-and-mediapipe_v1/blob/main/output/points.PNG?raw=true)
+
+
 
 
 
