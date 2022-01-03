@@ -16,7 +16,7 @@
 
 # <div align="center">Squats angle detection using OpenCv and Mediapipe</div>
 <div align="center"> 
-<img src >
+<img src= "https://github.com/Pradnya1208/Squats-angle-detection-using-OpenCV-and-mediapipe_v1/blob/main/output/output2.gif?raw=true" >
 </div>
 
 
