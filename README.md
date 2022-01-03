@@ -29,6 +29,12 @@ Human pose estimation from video plays a critical role in various applications s
 - When performed correctly, injuries related to these exercises are uncommon, however poor technique or inappropriate prescription can lead to wide range of issues, especially in combination with heavy weights. Considering the complexity of these exercises and the variables related to performance, understanding the biomechanics is of great importance for achieving optimal muscular development as well as reducing training related injury. 
 - Therefore, the purpose of this project is to detect the squat angles which will be helpful for the fitness instructors to provide a corrective advice where appropriate.
 
+## The Squat:
+The squat starts with the descent phase as the hips, knees and ankles all flex.  A common cue is to descend until the thighs are parallel with the floor, and the hip joint is either parallel or below the knee joint.  Ascent is performed primarily through triple extension of the hips knees and ankles, until the subject returns to the starting position. 
+<div align="center">
+<img src= "https://github.com/Pradnya1208/Squats-angle-detection-using-OpenCV-and-mediapipe_v1/blob/main/output/squat.jpg?raw=true">
+</div>
+
 
 ## ML Pipeline:
 
