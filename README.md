@@ -32,8 +32,16 @@ Human pose estimation from video plays a critical role in various applications s
 ## The Squat:
 The squat starts with the descent phase as the hips, knees and ankles all flex.  A common cue is to descend until the thighs are parallel with the floor, and the hip joint is either parallel or below the knee joint.  Ascent is performed primarily through triple extension of the hips knees and ankles, until the subject returns to the starting position. 
 <div align="center">
-<img src= "https://github.com/Pradnya1208/Squats-angle-detection-using-OpenCV-and-mediapipe_v1/blob/main/output/squat.jpg?raw=true">
+<img src= "https://github.com/Pradnya1208/Squats-angle-detection-using-OpenCV-and-mediapipe_v1/blob/main/output/squat.jpg?raw=true" width="50%">
 </div>
+
+## Mechanics of the squat:
+When we look at the squat, there are typically two main areas we look at:
+1. The knee joint<br>
+2. The hip joint<br>
+
+When the squat is paused in a certain position, we can then measure the angle of the joints.<br>
+**The hip angle** is formed by the position of the back and the thigh. **The knee angle** is formed by the thigh and the position of the lower leg.
 
 
 ## ML Pipeline:
