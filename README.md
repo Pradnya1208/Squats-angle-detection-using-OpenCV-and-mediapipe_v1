@@ -36,6 +36,7 @@ The squat starts with the descent phase as the hips, knees and ankles all flex. 
 </div>
 
 ## Mechanics of the squat:
+Analysis of the squat can be achieved by sub categorising the movement into three comprehensive domains; upper body, lower body and movement mechanics. The upper body emphasises the stability and posture of the head, neck and torso, the lower body asses the joint positions of hips, knees and ankles, finally the movement mechanics assess the timing and co-ordination of the exercise.<br>
 When we look at the squat, there are typically two main areas we look at:
 1. The knee joint<br>
 2. The hip joint<br>
