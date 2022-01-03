@@ -42,6 +42,12 @@ The solution utilizes a two-step detector-tracker ML pipeline. Using a detector,
 
 **Libraries:**  `NumPy` `cv2` `Mediapipe`
 
+## License
+
+[MIT](https://github.com/Pradnya1208/Squats-angle-detection-using-OpenCV-and-mediapipe_v1/blob/main/LICENSE/)
+
+
+
 
 ## The Squat:
 The squat starts with the descent phase as the hips, knees and ankles all flex.  A common cue is to descend until the thighs are parallel with the floor, and the hip joint is either parallel or below the knee joint.  Ascent is performed primarily through triple extension of the hips knees and ankles, until the subject returns to the starting position. 
