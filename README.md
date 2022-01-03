@@ -103,7 +103,7 @@ hip_angle = 180-angle_hip
 Checkout the [Notebook](https://github.com/Pradnya1208/Squats-angle-detection-using-OpenCV-and-mediapipe_v1/blob/main/Squat%20pose%20estimation.ipynb) for complete implementation.<br>
 
 <div align="center">
-<img src= "https://github.com/Pradnya1208/Squats-angle-detection-using-OpenCV-and-mediapipe_v1/blob/main/output/output1.gif?raw=true">
+<img src= "https://github.com/Pradnya1208/Squats-angle-detection-using-OpenCV-and-mediapipe_v1/blob/main/output/output1.gif?raw=true" width ="60%">
 </div>
             
 
